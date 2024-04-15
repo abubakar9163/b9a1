@@ -144,3 +144,44 @@
     padding: 126px 0px;
     padding-left: 126px;
 }
+
+/* portfolio design */
+.container h6 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 15px;
+}
+
+.container h3 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.container p {
+    color: rgba(7, 2, 17, 0.60);
+    max-width: 715px;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 45px;
+
+}
+
+.container .pic-line1{
+    display: flex;
+}
+.container .pic-line2{
+    display: flex;
+}
+
